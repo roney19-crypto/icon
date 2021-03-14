@@ -1,0 +1,26 @@
+main{}
+.bookmark{
+
+}
+.bookmark ul{
+
+
+}
+.bookmark ul li{
+    list-style: none;
+    padding: 40px;
+    display: inline-block;
+}
+.bookmark ul li a{
+  font-size: 40px;
+  padding: 10px;
+  text-align: center;
+  color: rgb(37, 223, 136);  
+
+
+}
+.bookmark ul li a:hover{
+background: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+}
